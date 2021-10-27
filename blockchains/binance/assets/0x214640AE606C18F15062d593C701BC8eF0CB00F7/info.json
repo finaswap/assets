@@ -1,0 +1,12 @@
+{
+    "name": "FinaToken",
+    "website": "https://finaswap.com",
+    "description": "FinaSwap claims to be an evolution of #SushiSwap with $FNA tokenomics.",
+    "explorer": "https://bscscan.com/token/0x214640AE606C18F15062d593C701BC8eF0CB00F7",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "FNA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x214640AE606C18F15062d593C701BC8eF0CB00F7"
+}
