@@ -1,0 +1,12 @@
+{
+    "name": "FinaToken",
+    "website": "https://finaswap.com",
+    "description": "FinaSwap claims to be an evolution of #SushiSwap with $FNA tokenomics.",
+    "explorer": "https://ropsten.etherscan.io/address/0x31b6ED8Dc8ced0B5C7B9C0FDF3066F58D99B52E7",
+    "research": "",
+    "type": "ERC20",
+    "symbol": "FNA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x31b6ED8Dc8ced0B5C7B9C0FDF3066F58D99B52E7"
+}

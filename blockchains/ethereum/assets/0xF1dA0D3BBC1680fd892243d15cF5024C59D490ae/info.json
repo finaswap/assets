@@ -1,0 +1,19 @@
+{
+    "name": "FinaLounge",
+    "website": "https://finaswap.com",
+    "source_code": "https://github.com/finaswap",
+    "description": "xFNA is a trading fee accruing token. 0.05% of the exchange trade fees on FinaSwap are awarded to holders of the xFNA token",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/FinaSwap",
+            "handle": "FinaSwap"
+        }
+    ],
+    "explorer": "https://ropsten.etherscan.io/address/0xF1dA0D3BBC1680fd892243d15cF5024C59D490ae",
+    "type": "ERC20",
+    "symbol": "xFNA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF1dA0D3BBC1680fd892243d15cF5024C59D490ae"
+}
